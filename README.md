@@ -11,5 +11,5 @@ Designed and implemented multi-location network topology for 4 locations in Indi
 	
 	● Location 4: Apparel shopping network at Kolkata
 	
-Gained practical knowledge of Networking Services (TCP and UDP based, DNS, DHCP)
+Gained practical knowledge of Networking Services (TCP and UDP, DNS, DHCP)
 Used BGP as exterior gateway protocol and RIP and EIGRP as interior gateway protocols.
